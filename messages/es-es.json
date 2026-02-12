@@ -1,0 +1,466 @@
+{
+  "meta": {
+    "name": "español (España)",
+    "author": {
+      "name": "Israel R. Jatobá",
+      "url": "https://yeytaken.vercel.app/"
+    }
+  },
+  "messages": {
+    "web": {
+      "Home": {
+        "metaTitle": "ARC Studio — Inicio",
+        "metaDescription": "Tu proyecto merece lo mejor — vamos a hacerlo realidad con innovación y dedicación.",
+        "title": "¿Quieres hacer realidad tu idea?",
+        "description": "Tu proyecto merece lo mejor — vamos a hacerlo realidad con innovación y dedicación.",
+        "meetOur": "Conoce nuestro",
+        "team": "Equipo",
+        "yourProfile": "Acceder a tu perfil",
+        "contactCta": "Hablar con el equipo",
+        "appCta": "Acceder a la app"
+      },
+      "NotFound": {
+        "title": "¡Página no encontrada!",
+        "prefix": "La ruta",
+        "suffix": "no existe.",
+        "backHome": "Volver a la Página de Inicio"
+      },
+      "Team": {
+        "metaTitle": "Equipo",
+        "metaDescription": "Conoce a las personas increíbles detrás de ARC Studio — ARC Team."
+      },
+      "OfficialProjects": {
+        "OfficialProjectsCard": {
+          "author": "Autor(es)"
+        }
+      },
+      "Faq": {
+        "title": "Preguntas Frecuentes",
+        "items": [
+          {
+            "question": "¿Qué hace ARC Studio?",
+            "subtitle": "Haz clic para expandir",
+            "answer": "ARC Studio transforma ideas en experiencias digitales memorables. Ofrecemos servicios de diseño, desarrollo de aplicaciones, experiencias interactivas y contenido digital que conecta marcas y personas."
+          },
+          {
+            "question": "¿Cuáles son los diferenciales de ARC Studio?",
+            "subtitle": "Nuestro diferencial está en la <bold>creatividad y la tecnología</bold>",
+            "answer": "Cada proyecto es personalizado, innovador y entregado con atención al detalle y excelencia."
+          },
+          {
+            "question": "¿Cómo puedo solicitar un presupuesto?",
+            "subtitle": "Ponte en contacto con nosotros",
+            "answer": "Puedes ponerte en contacto a través de nuestro <bold>formulario de contacto</bold> o por el correo oficial. Nuestro equipo entenderá tu necesidad y presentará una propuesta personalizada."
+          },
+          {
+            "question": "¿Trabajan con empresas de cualquier tamaño?",
+            "subtitle": "Para todos los tamaños de empresa",
+            "answer": "¡Sí! Trabajamos con startups, pymes y grandes empresas, adaptando nuestro enfoque para ofrecer soluciones según cada cliente."
+          },
+          {
+            "question": "¿Cuál es el tiempo promedio de entrega de un proyecto?",
+            "subtitle": "Depende del proyecto",
+            "answer": "El plazo varía según la complejidad del proyecto, pero siempre buscamos entregar resultados de alta calidad dentro de un cronograma realista, manteniendo comunicación constante con el cliente."
+          }
+        ]
+      },
+      "About": {
+        "title": "Sobre",
+        "headline": "Transformamos ideas en experiencias digitales memorables. En <arc_studio>ARC Studio</arc_studio>, creamos soluciones que inspiran, involucran y conectan marcas con personas de forma única.",
+        "intro_paragraph_1": "Fundada con el objetivo de redefinir estándares en el mercado de diseño y tecnología, ARC Studio combina creatividad, innovación y estrategia para entregar proyectos que impresionan y marcan la diferencia. Nuestro equipo de especialistas une talento artístico y dominio tecnológico para crear experiencias digitales de alto impacto.",
+        "intro_paragraph_2": "Cada proyecto se aborda con atención a los detalles, comprensión profunda del propósito del cliente y una visión clara de cómo comunicar su mensaje de forma poderosa. Siempre estamos a la vanguardia de las tendencias, garantizando resultados únicos y relevantes.",
+        "mission_title": "Misión",
+        "mission_content": "Transformar ideas en experiencias inolvidables, conectando marcas y personas de forma significativa.",
+        "vision_title": "Visión",
+        "vision_content": "Ser referencia en creatividad y tecnología, reconocida por la excelencia e innovación de cada proyecto.",
+        "values_title": "Valores",
+        "values_content": "Creatividad, innovación, colaboración, excelencia y compromiso con resultados impactantes.",
+        "conclusion": "En ARC Studio, cada proyecto es más que trabajo: es una oportunidad para crear algo memorable y dejar un legado digital. Estamos listos para convertir tu visión en realidad, con excelencia e innovación en cada detalle."
+      },
+      "Terms": {
+        "title": "📜 Términos y Condiciones del Servicio",
+        "subtitle": "Recomendamos leer atentamente todas las cláusulas.",
+        "last_updated": "Última Actualización: Diciembre de 2025.",
+        "sections": {
+          "1": {
+            "title": "1. Aceptación de los Términos",
+            "content": "Al acceder o usar los servicios ofrecidos por ARC Studio, aceptas cumplir estos Términos y Condiciones. Si no estás de acuerdo con alguno de estos Términos, por favor no uses los Servicios."
+          },
+          "2": {
+            "title": "2. Definiciones",
+            "content": {
+              "services": "“Servicios” se refiere a todos los productos, software, sitios web, apps, recursos y funcionalidades puestos a disposición por ARC Studio.",
+              "user": "“Usuario” se refiere a cualquier persona que acceda o utilice los Servicios.",
+              "content": "“Contenido” se refiere a textos, imágenes, videos, audio, código o cualquier material proporcionado por ARC Studio o por el Usuario en el ámbito de los Servicios."
+            }
+          },
+          "3": {
+            "title": "3. Uso de los Servicios",
+            "content": "El Usuario acepta usar los Servicios de manera lícita y de acuerdo con todas las leyes aplicables. Está prohibido usar los Servicios para: (a) violar derechos de terceros; (b) enviar o compartir contenidos ilícitos, ofensivos, difamatorios, discriminatorios o de odio; (c) cometer fraude, phishing, spam o cualquier actividad maliciosa; (d) intentar obtener acceso no autorizado a sistemas, datos o cuentas."
+          },
+          "4": {
+            "title": "4. Registro y Seguridad de la Cuenta",
+            "content": "Si es necesario crear una cuenta para usar los Servicios, el Usuario se compromete a proporcionar información verdadera, actual y completa. El Usuario es responsable de proteger su contraseña y credenciales de acceso, y de todas las actividades realizadas con su cuenta. En caso de uso no autorizado de la cuenta, el Usuario debe notificar inmediatamente a ARC Studio."
+          },
+          "5": {
+            "title": "5. Propiedad Intelectual",
+            "content": "Todo el Contenido puesto a disposición por ARC Studio, incluyendo software, diseño, texto, imágenes, marcas, logotipos y demás materiales, está protegido por derechos de autor, marcas registradas y otras leyes de propiedad intelectual. El Usuario no adquiere ningún derecho sobre ese Contenido, excepto la licencia limitada, no exclusiva e intransferible para utilizar los Servicios según lo permitido por estos Términos."
+          },
+          "6": {
+            "title": "6. Contenido del Usuario",
+            "content": "Cuando el Usuario envíe o ponga a disposición Contenido a través de los Servicios (por ejemplo, comentarios, cargas, materiales creados), otorga a ARC Studio una licencia mundial, no exclusiva y libre de regalías para usar, reproducir, modificar, adaptar y mostrar ese Contenido según sea necesario para proporcionar los Servicios. El Usuario declara que es titular o tiene autorización legal para usar y otorgar esta licencia. ARC Studio puede eliminar o rechazar cualquier Contenido que viole estos Términos o las leyes aplicables."
+          },
+          "7": {
+            "title": "7. Pagos y Cobros (Si aplica)",
+            "content": "Si algún Servicio es de pago, los precios, tarifas y formas de pago se definirán por separado. El Usuario acepta pagar todas las tarifas asociadas y acepta que ARC Studio pueda agregar, modificar o eliminar planes con notificación previa. No hay reembolso, salvo que se indique expresamente."
+          },
+          "8": {
+            "title": "8. Exención de Garantías",
+            "content": "Los Servicios se proporcionan “tal como están” y “según disponibilidad”. ARC Studio no garantiza que los Servicios sean ininterrumpidos, estén libres de errores, sean seguros o adecuados para un propósito específico. El Usuario utiliza los Servicios bajo su propio riesgo."
+          },
+          "9": {
+            "title": "9. Limitación de Responsabilidad",
+            "content": "En ningún caso ARC Studio será responsable de daños indirectos, incidentales, especiales, consecuentes o ejemplares, ni por pérdida de datos, ganancias o ingresos derivados del uso o la imposibilidad de usar los Servicios, incluso si fue advertida de la posibilidad de dichos daños. La responsabilidad total de ARC Studio se limitará al monto efectivamente pagado por el Usuario por los Servicios, si lo hubiera."
+          },
+          "10": {
+            "title": "10. Suspensión y Terminación",
+            "content": "ARC Studio se reserva el derecho de suspender o terminar el acceso de cualquier Usuario a los Servicios, en cualquier momento y por cualquier motivo, especialmente en caso de incumplimiento de estos Términos. Las cláusulas que por su naturaleza deban sobrevivir a la terminación (como Propiedad Intelectual, Limitación de Responsabilidad, etc.) seguirán vigentes después de la terminación."
+          },
+          "11": {
+            "title": "11. Modificaciones de los Términos",
+            "content": "ARC Studio puede modificar estos Términos en cualquier momento. Al continuar usando los Servicios después de las modificaciones, el Usuario acepta los Términos revisados. Si no está de acuerdo, debe dejar de usar los Servicios."
+          },
+          "12": {
+            "title": "12. Privacidad y Datos",
+            "content": "El uso y tratamiento de datos personales se rige por la política de privacidad de ARC Studio. Al usar los Servicios, el Usuario acepta la recopilación, uso y almacenamiento de sus datos según se describe en dicha política. (Si no tienes una, se recomienda crear una política separada.)"
+          },
+          "13": {
+            "title": "13. Ley Aplicable y Jurisdicción",
+            "content": "Estos Términos se regirán e interpretarán de acuerdo con las leyes vigentes en Brasil. Cualquier controversia se resolverá en el fuero competente de la jurisdicción donde ARC Studio tenga su sede, salvo disposición en contrario."
+          },
+          "14": {
+            "title": "14. Disposiciones Generales",
+            "content": "El no ejercicio de cualquier derecho o cláusula de estos Términos no constituye renuncia a ese derecho. Si alguna disposición de estos Términos se considera inválida o inaplicable, las demás seguirán en pleno vigor. Estos Términos constituyen el acuerdo completo entre el Usuario y ARC Studio en relación con los Servicios."
+          },
+          "15": {
+            "title": "15. Contacto",
+            "content": "Si tienes dudas, sugerencias o reclamaciones sobre estos Términos o los Servicios, contáctanos por correo electrónico: arcstudio.ofical@gmail.com."
+          }
+        }
+      },
+      "Changelog": {
+        "metaTitle": "Changelog — ARC Studio",
+        "metaDescription": "Mantente al día con las últimas funciones, mejoras y correcciones en ARC Studio. ¡Consulta nuestro changelog para todos los detalles!",
+        "title": "Changelog",
+        "description": "Historial de actualizaciones"
+      },
+      "data": {
+        "changelog": {
+          "test": {
+            "test": "Prueba"
+          }
+        }
+      },
+      "components": {
+        "UI": {
+          "Footer": {
+            "product": {
+              "title": "Producto",
+              "links": {
+                "app": "Acceder por navegador",
+                "pricing": "Apoyar",
+                "changelog": "Novedades"
+              }
+            },
+            "company": {
+              "title": "Empresa",
+              "links": {
+                "about": "Sobre nosotros",
+                "team": "Equipo",
+                "contact": "Contacto"
+              }
+            },
+            "support": {
+              "title": "Soporte",
+              "links": {
+                "faq": "FAQ",
+                "docs": "Documentación",
+                "terms": "Términos de Servicio"
+              }
+            },
+            "copyright": {
+              "developedBy": "Desarrollado con 💙 por",
+              "rightsReserved": "Todos los derechos reservados."
+            },
+            "tagline": "Lo mejor de tus ideas — solo aquí, en ARC Studio."
+          },
+          "Navbar": {
+            "links": {
+              "changelog": "Novedades",
+              "official-projects": "Proyectos Oficiales",
+              "about": "Sobre nosotros"
+            },
+            "buttons": {
+              "start": "Comenzar",
+              "contact": "Habla con nosotros"
+            },
+            "ariaLabels": {
+              "toggleMenu": "Alternar menú"
+            }
+          }
+        }
+      },
+      "_components": {
+        "IconTimeLineItem": {
+          "releaseDate": "Lanzamiento el: {date}"
+        }
+      }
+    },
+    "auth": {
+      "Home": {
+        "metaTitle": "ARC Studio — AUTH",
+        "loading": "Cargando…",
+        "checkingConnection": "Buscando conexión",
+        "error": "¡Vaya!",
+        "authSystem": "Sistema de autenticación"
+      },
+      "NotFound": {
+        "title": "¡Página no encontrada!",
+        "prefix": "La ruta",
+        "suffix": "no existe.",
+        "backHome": "Volver a la Página de Inicio"
+      },
+      "_components": {
+        "auth": {
+          "session": {
+            "avatarAlt": "Foto de perfil",
+            "displayName": "Nombre para mostrar",
+            "displayNameRequired": "El nombre para mostrar es obligatorio",
+            "nickname": "Nickname",
+            "nicknameHint": "2 a 32 caracteres, letras minúsculas, números, _ y . (sin ..)",
+            "nicknameRequired": "El nickname es obligatorio",
+            "nicknameInvalid": "Nickname inválido",
+            "nicknameTaken": "Este nickname ya está en uso",
+            "emailVerified": "Correo electrónico verificado",
+            "yes": "Sí",
+            "no": "No",
+            "memberSince": "Miembro desde",
+            "lastUpdate": "Última actualización",
+            "emailLabel": "Correo electrónico",
+            "signOut": "Cerrar sesión",
+            "signOutConfirm": "¿Seguro que deseas cerrar sesión?",
+            "saveChanges": "Guardar cambios",
+            "saving": "Guardando…",
+            "updateSuccess": "Perfil actualizado",
+            "updateError": "No se pudo actualizar",
+            "checkFields": "Verifica los campos y vuelve a intentarlo.",
+            "adminBadge": "Admin",
+            "copyId": "Copiar ID",
+            "copyIdSuccess": "ID copiado",
+            "copyIdError": "No se pudo copiar el ID",
+            "searchPlaceholder": "Buscar por ID, username o nombre",
+            "searchLoading": "Buscando…",
+            "searchNoResults": "No se encontraron usuarios",
+            "searchError": "No se pudieron buscar usuarios",
+            "viewOnlyHint": "Viendo otro perfil",
+            "backToMe": "Volver al mío",
+            "orgsTitle": "Organizaciones",
+            "orgLoading": "Cargando organizaciones…",
+            "orgLoadError": "No se pudieron cargar las organizaciones",
+            "orgEmpty": "Nada por aquí",
+            "orgCreateTitle": "Crear organización",
+            "orgCreateButton": "Crear organización",
+            "orgCreating": "Creando…",
+            "orgNameLabel": "Nombre de la organización",
+            "orgNameRequired": "El nombre de la organización es obligatorio",
+            "orgSlugLabel": "Slug",
+            "orgSlugRequired": "El slug es obligatorio",
+            "orgSlugHint": "Usa letras minúsculas, números y guiones",
+            "orgLogoLabel": "Logo",
+            "orgLogoSelect": "Seleccionar archivo",
+            "orgLogoHint": "PNG o JPG, hasta 2MB",
+            "orgCreateSuccess": "Organización creada",
+            "orgCreateError": "No se pudo crear la organización",
+            "orgUpdateButton": "Guardar organización",
+            "orgUpdating": "Guardando…",
+            "orgUpdateSuccess": "Organización actualizada",
+            "orgUpdateError": "No se pudo actualizar la organización",
+            "orgSetActive": "Activar",
+            "orgActive": "Activa",
+            "orgSetActiveSuccess": "Organización activada",
+            "orgSetActiveError": "No se pudo activar la organización",
+            "orgEdit": "Editar",
+            "orgDelete": "Eliminar",
+            "orgDeleteConfirm": "¿Seguro que deseas eliminar esta organización? Esta acción no se puede deshacer.",
+            "orgDeleteSuccess": "Organización eliminada",
+            "orgDeleteError": "No se pudo eliminar la organización",
+            "orgLeave": "Cerrar sesión",
+            "orgLeaveConfirm": "¿Seguro que deseas salir de esta organización?",
+            "orgLeaveSuccess": "Saliste de la organización",
+            "orgLeaveError": "No se pudo salir de la organización",
+            "orgInviteTitle": "Invitar miembros",
+            "orgInviteEmail": "Correo del miembro",
+            "orgInviteEmailRequired": "El correo electrónico es obligatorio",
+            "orgInviteRole": "Cargo",
+            "orgInviteRoleRequired": "El cargo es obligatorio",
+            "orgInviteButton": "Enviar invitación",
+            "orgInviting": "Enviando…",
+            "chatsTitle": "Chats",
+            "chatsSearch": "Buscar chats",
+            "chatsEmpty": "Aún no hay chats",
+            "chatsOpenOrg": "Abre una organización para empezar a chatear",
+            "chatsSendPlaceholder": "Escribe un mensaje…",
+            "chatsSend": "Enviar",
+            "chatsMembersTitle": "Miembros",
+            "chatsNoMessages": "Aún no hay mensajes.",
+            "chatsYou": "Tú",
+            "chatsNow": "Ahora",
+            "chatsOrgBadgeOwner": "OWNER",
+            "chatsOrgBadgeMember": "MEMBER",
+            "chatsOrgBadgeGuest": "GUEST",
+            "chatsRole": "Cargo",
+            "chatsMembersCount": "{count, plural, one {# miembro} other {# miembros}}",
+            "chatsOrgEmptyCTA": "Crear organización",
+            "chatsOrgEmptyDesc": "Aún no hay organizaciones disponibles para chats.",
+            "chatsListEmpty": "Comienza una conversación",
+            "chatsSeedWelcome": "¡Bienvenido a {org}! Usa este espacio para coordinar con el equipo.",
+            "chatsSeedAck": "Entendido, compartiré los próximos pasos.",
+            "chatsSeedNextSteps": "Empecemos invitando al equipo y definiendo los roles.",
+            "orgInviteSuccess": "Invitación enviada",
+            "orgInviteError": "No se pudo enviar la invitación",
+            "orgSelectLabel": "Organización",
+            "orgSelectEmpty": "No hay organizaciones disponibles",
+            "orgSelectRequired": "Selecciona una organización",
+            "orgNotificationsTitle": "Invitaciones",
+            "orgNotificationsLoading": "Cargando invitaciones…",
+            "orgNotificationsEmpty": "No hay invitaciones pendientes",
+            "orgNotificationsError": "No se pudieron cargar las invitaciones",
+            "orgInviteAcceptSuccess": "Invitación aceptada",
+            "orgInviteRejectSuccess": "Invitación rechazada",
+            "orgInviteActionError": "No se pudo responder a la invitación",
+            "orgMembersTitle": "Miembros",
+            "orgMembersEmpty": "No hay miembros por aquí",
+            "orgMembersMore": "otros",
+            "avatar": {
+              "cancel": "Cancelar",
+              "save": "Guardar"
+            }
+          },
+          "signin": {
+            "badge": "Autenticación",
+            "title": "Bienvenido de nuevo",
+            "subtitle": "Ingresa tus credenciales para continuar",
+            "email": "Correo electrónico",
+            "password": "Contraseña",
+            "rememberMe": "Mantener sesión iniciada",
+            "forgotPassword": "¿Olvidaste tu contraseña?",
+            "submit": "Iniciar sesión en la plataforma",
+            "github": "Iniciar sesión con GitHub",
+            "noAccount": "¿Aún no tienes cuenta?",
+            "createAccount": "Crear cuenta",
+            "validation": {
+              "emailRequired": "El correo electrónico es obligatorio",
+              "emailInvalid": "Correo electrónico inválido",
+              "passwordRequired": "La contraseña es obligatoria",
+              "passwordMin": "Mínimo de 6 caracteres"
+            },
+            "toast": {
+              "errorTitle": "Error al iniciar sesión",
+              "errorDescription": "Verifica los campos y vuelve a intentarlo.",
+              "loginFailed": "Inicio de sesión fallido",
+              "loginSuccess": "Inicio de sesión exitoso",
+              "connecting": "Conectando…",
+              "unexpectedError": "Error inesperado",
+              "tryLater": "Inténtalo de nuevo más tarde.",
+              "githubFailed": "Error al iniciar sesión con GitHub",
+              "passwordRecovery": "Recuperación de contraseña",
+              "notAvailable": "Flujo aún no disponible."
+            }
+          },
+          "signup": {
+            "badge": "Registro",
+            "title": "Crea tu cuenta",
+            "subtitle": "Completa los campos para comenzar",
+            "displayName": "Nombre para mostrar",
+            "email": "Correo electrónico",
+            "password": "Contraseña",
+            "confirmPassword": "Confirmar contraseña",
+            "submit": "Crear cuenta",
+            "haveAccount": "¿Ya tienes cuenta?",
+            "signIn": "Iniciar sesión",
+            "avatar": {
+              "change": "Cambiar avatar",
+              "cancel": "Cancelar",
+              "save": "Guardar"
+            },
+            "validation": {
+              "nameRequired": "El nombre es obligatorio",
+              "emailRequired": "El correo electrónico es obligatorio",
+              "emailInvalid": "Correo electrónico inválido",
+              "passwordRequired": "La contraseña es obligatoria",
+              "passwordMin": "Mínimo de 6 caracteres",
+              "passwordMismatch": "Las contraseñas no coinciden"
+            },
+            "toast": {
+              "createError": "Error al crear la cuenta",
+              "checkFields": "Verifica los campos y vuelve a intentarlo.",
+              "createFailed": "Error al crear la cuenta",
+              "createSuccess": "Cuenta creada con éxito",
+              "redirecting": "Redirigiendo…",
+              "unexpectedError": "Error inesperado",
+              "tryLater": "Inténtalo de nuevo más tarde."
+            }
+          }
+        }
+      },
+      "components": {
+        "UI": {
+          "Footer": {
+            "product": {
+              "title": "Producto",
+              "links": {
+                "app": "Acceder por navegador",
+                "pricing": "Apoyar",
+                "changelog": "Novedades"
+              }
+            },
+            "company": {
+              "title": "Empresa",
+              "links": {
+                "about": "Sobre nosotros",
+                "team": "Equipo",
+                "contact": "Contacto"
+              }
+            },
+            "support": {
+              "title": "Soporte",
+              "links": {
+                "faq": "FAQ",
+                "docs": "Documentación",
+                "terms": "Términos de Servicio"
+              }
+            },
+            "copyright": {
+              "developedBy": "Desarrollado con 💙 por",
+              "rightsReserved": "Todos los derechos reservados."
+            },
+            "tagline": "Lo mejor de tus ideas — solo aquí, en ARC Studio."
+          },
+          "Navbar": {
+            "links": {
+              "changelog": "Novedades",
+              "official-projects": "Proyectos Oficiales",
+              "about": "Sobre nosotros"
+            },
+            "buttons": {
+              "start": "Comenzar"
+            },
+            "ariaLabels": {
+              "toggleMenu": "Alternar menú"
+            }
+          }
+        }
+      }
+    }
+  }
+}

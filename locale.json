@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "type": "locales",
+    "defaultLang": "en-us",
+    "version": "1.0.0"
+  },
+  "locales": "messages/{locale}.json"
+}
