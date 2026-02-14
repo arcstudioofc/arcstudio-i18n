@@ -153,7 +153,33 @@
         "metaTitle": "Changelog — ARC Studio",
         "metaDescription": "Stay up to date with the latest features, improvements, and fixes in ARC Studio. Check our changelog for all details!",
         "title": "Changelog",
-        "description": "Update history"
+        "description": "Update history",
+        "badgeTimeline": "Timeline",
+        "empty": {
+          "title": "No changelog found",
+          "description": "Adjust the filters or search term to view the results."
+        },
+        "actions": {
+          "resetView": "Reset view",
+          "cancel": "Cancel",
+          "saveChanges": "Save changes"
+        },
+        "editor": {
+          "title": "Edit changelog",
+          "titleLabel": "Title",
+          "typeLabel": "Type",
+          "contentLabel": "Content (Markdown)"
+        },
+        "confirmDelete": "Are you sure you want to delete this changelog?",
+        "toast": {
+          "errorTitle": "Error",
+          "successTitle": "Success",
+          "apiNotConfigured": "API is not configured",
+          "deleted": "Changelog deleted",
+          "deleteError": "Failed to delete changelog",
+          "updated": "Changelog updated",
+          "updateError": "Failed to update changelog"
+        }
       },
       "data": {
         "changelog": {
@@ -213,7 +239,10 @@
       },
       "_components": {
         "IconTimeLineItem": {
-          "releaseDate": "Release on: {date}"
+          "releaseDate": "Release on: {date}",
+          "editActionLabel": "Edit changelog",
+          "deleteActionLabel": "Delete changelog",
+          "detailLabel": "Changelog detail"
         }
       }
     },
