@@ -153,7 +153,33 @@
         "metaTitle": "Changelog — ARC Studio",
         "metaDescription": "Restez informé des dernières fonctionnalités, améliorations et corrections d'ARC Studio. Consultez notre changelog pour tous les détails !",
         "title": "Changelog",
-        "description": "Historique des mises à jour"
+        "description": "Historique des mises à jour",
+        "badgeTimeline": "Chronologie",
+        "empty": {
+          "title": "Aucun changelog trouvé",
+          "description": "Ajustez les filtres ou le terme de recherche pour afficher les résultats."
+        },
+        "actions": {
+          "resetView": "Réinitialiser la vue",
+          "cancel": "Annuler",
+          "saveChanges": "Enregistrer les modifications"
+        },
+        "editor": {
+          "title": "Modifier le changelog",
+          "titleLabel": "Titre",
+          "typeLabel": "Type",
+          "contentLabel": "Contenu (Markdown)"
+        },
+        "confirmDelete": "Êtes-vous sûr de vouloir supprimer ce changelog ?",
+        "toast": {
+          "errorTitle": "Erreur",
+          "successTitle": "Succès",
+          "apiNotConfigured": "API non configurée",
+          "deleted": "Changelog supprimé",
+          "deleteError": "Erreur lors de la suppression du changelog",
+          "updated": "Changelog mis à jour",
+          "updateError": "Erreur lors de la mise à jour du changelog"
+        }
       },
 
       "data": {
@@ -214,7 +240,10 @@
       },
       "_components": {
         "IconTimeLineItem": {
-          "releaseDate": "Sortie le : {date}"
+          "releaseDate": "Sortie le : {date}",
+          "editActionLabel": "Modifier le changelog",
+          "deleteActionLabel": "Supprimer le changelog",
+          "detailLabel": "Détail du changelog"
         }
       }
     },
